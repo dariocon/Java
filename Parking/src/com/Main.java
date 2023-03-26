@@ -16,10 +16,10 @@ public class Main {
 		
 		
 		
-		a.acceder(new Vehiculo("Mercedes", "CLK", "2417GNX", Combustible.GASOLINA, LocalDateTime.now(), TipoVehiculo.TRANSPORTE_MERCANCIAS));
-		a.acceder(new Vehiculo("FORD", "FOCUS", "2407GNX", Combustible.GASOLINA, LocalDateTime.now().plusDays(3), TipoVehiculo.AUTOMOVIL));
-		a.acceder(new Vehiculo("DACIA", "SANDERO", "2408GNX", Combustible.GASOLINA, LocalDateTime.now().plusDays(6), TipoVehiculo.TRANSPORTE_MERCANCIAS));
-		a.acceder(new Vehiculo("DACIA", "DUSTER", "2409GNX", Combustible.GASOIL, LocalDateTime.now().plusDays(7), TipoVehiculo.AUTOMOVIL));
+		a.acceder(new Vehiculo("Renault", "Clío", "5678FFJ", Combustible.GASOLINA, LocalDateTime.now(), TipoVehiculo.TRANSPORTE_MERCANCIAS));
+		a.acceder(new Vehiculo("Ford", "Mondeo", "5789FFJ", Combustible.GASOLINA, LocalDateTime.now().plusDays(3), TipoVehiculo.AUTOMOVIL));
+		a.acceder(new Vehiculo("BMW", "X6", "5790FFJ", Combustible.GASOLINA, LocalDateTime.now().plusDays(6), TipoVehiculo.TRANSPORTE_MERCANCIAS));
+		a.acceder(new Vehiculo("Audi", "Q8", "5900FFJ", Combustible.GASOIL, LocalDateTime.now().plusDays(7), TipoVehiculo.AUTOMOVIL));
 		
 		
 		//System.out.println(a);
