@@ -47,8 +47,7 @@ public class GenerarArchivoOrdenado {
 	public void generarArchivo() throws IOException {
 		/*este método crea un nuevo archivo llamado generado.txt y escribe en él la información de cada país
 		 *  y sus ciudades en orden ascendente según la cantidad de direcciones que tengan, y en caso de que
-		 *   haya dos ciudades con la misma cantidad de direcciones, se ordenan alfabéticamente. 
-		 *   Finalmente, el archivo generado se guarda en la misma ubicación del archivo "GeneradorArchivo.java".*/
+		 *   haya dos ciudades con la misma cantidad de direcciones, se ordenan alfabéticamente. */
 		File file = new File("files/archivoGenerado.txt");
 		file.createNewFile();
 		FileWriter flujoEscritura= new FileWriter(file);
