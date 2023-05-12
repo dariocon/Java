@@ -1,0 +1,327 @@
+Country id: 1, country: Afghanistan
+Cities: 0
+
+Country id: 2, country: Algeria
+Cities: 0
+
+Country id: 3, country: American Samoa
+Cities: 0
+
+Country id: 4, country: Angola
+Cities: 0
+
+Country id: 5, country: Anguilla
+Cities: 0
+
+Country id: 6, country: Argentina
+Cities: 0
+
+Country id: 7, country: Armenia
+Cities: 0
+
+Country id: 8, country: Australia
+Cities: 0
+
+Country id: 9, country: Austria
+Cities: 0
+
+Country id: 10, country: Azerbaijan
+Cities: 0
+
+Country id: 11, country: Bahrain
+Cities: 0
+
+Country id: 12, country: Bangladesh
+Cities: 0
+
+Country id: 13, country: Belarus
+Cities: 0
+
+Country id: 14, country: Bolivia
+Cities: 0
+
+Country id: 15, country: Brazil
+Cities: 0
+
+Country id: 16, country: Brunei
+Cities: 0
+
+Country id: 17, country: Bulgaria
+Cities: 0
+
+Country id: 18, country: Cambodia
+Cities: 0
+
+Country id: 19, country: Cameroon
+Cities: 0
+
+Country id: 20, country: Canada
+Cities: 0
+
+Country id: 21, country: Chad
+Cities: 0
+
+Country id: 22, country: Chile
+Cities: 0
+
+Country id: 23, country: China
+Cities: 0
+
+Country id: 24, country: Colombia
+Cities: 0
+
+Country id: 25, country: Congo
+Cities: 0
+
+Country id: 26, country: Czech Republic
+Cities: 0
+
+Country id: 27, country: Dominican Republic
+Cities: 0
+
+Country id: 28, country: Ecuador
+Cities: 0
+
+Country id: 29, country: Egypt
+Cities: 0
+
+Country id: 30, country: Estonia
+Cities: 0
+
+Country id: 31, country: Ethiopia
+Cities: 0
+
+Country id: 32, country: Faroe Islands
+Cities: 0
+
+Country id: 33, country: Finland
+Cities: 0
+
+Country id: 34, country: France
+Cities: 0
+
+Country id: 35, country: French Guiana
+Cities: 0
+
+Country id: 36, country: French Polynesia
+Cities: 0
+
+Country id: 37, country: Gambia
+Cities: 0
+
+Country id: 38, country: Germany
+Cities: 0
+
+Country id: 39, country: Greece
+Cities: 0
+
+Country id: 40, country: Greenland
+Cities: 0
+
+Country id: 41, country: Holy See Vatican City State
+Cities: 0
+
+Country id: 42, country: Hong Kong
+Cities: 0
+
+Country id: 43, country: Hungary
+Cities: 0
+
+Country id: 44, country: India
+Cities: 0
+
+Country id: 45, country: Indonesia
+Cities: 0
+
+Country id: 46, country: Iran
+Cities: 0
+
+Country id: 47, country: Iraq
+Cities: 0
+
+Country id: 48, country: Israel
+Cities: 0
+
+Country id: 49, country: Italy
+Cities: 0
+
+Country id: 50, country: Japan
+Cities: 0
+
+Country id: 51, country: Kazakstan
+Cities: 0
+
+Country id: 52, country: Kenya
+Cities: 0
+
+Country id: 53, country: Kuwait
+Cities: 0
+
+Country id: 54, country: Latvia
+Cities: 0
+
+Country id: 55, country: Liechtenstein
+Cities: 0
+
+Country id: 56, country: Lithuania
+Cities: 0
+
+Country id: 57, country: Madagascar
+Cities: 0
+
+Country id: 58, country: Malawi
+Cities: 0
+
+Country id: 59, country: Malaysia
+Cities: 0
+
+Country id: 60, country: Mexico
+Cities: 0
+
+Country id: 61, country: Moldova
+Cities: 0
+
+Country id: 62, country: Morocco
+Cities: 0
+
+Country id: 63, country: Mozambique
+Cities: 0
+
+Country id: 64, country: Myanmar
+Cities: 0
+
+Country id: 65, country: Nauru
+Cities: 0
+
+Country id: 66, country: Nepal
+Cities: 0
+
+Country id: 67, country: Netherlands
+Cities: 0
+
+Country id: 68, country: New Zealand
+Cities: 0
+
+Country id: 69, country: Nigeria
+Cities: 0
+
+Country id: 70, country: North Korea
+Cities: 0
+
+Country id: 71, country: Oman
+Cities: 0
+
+Country id: 72, country: Pakistan
+Cities: 0
+
+Country id: 73, country: Paraguay
+Cities: 0
+
+Country id: 74, country: Peru
+Cities: 0
+
+Country id: 75, country: Philippines
+Cities: 0
+
+Country id: 76, country: Poland
+Cities: 0
+
+Country id: 77, country: Puerto Rico
+Cities: 0
+
+Country id: 78, country: Romania
+Cities: 0
+
+Country id: 79, country: Runion
+Cities: 0
+
+Country id: 80, country: Russian Federation
+Cities: 0
+
+Country id: 81, country: Saint Vincent and the Grenadines
+Cities: 0
+
+Country id: 82, country: Saudi Arabia
+Cities: 0
+
+Country id: 83, country: Senegal
+Cities: 0
+
+Country id: 84, country: Slovakia
+Cities: 0
+
+Country id: 85, country: South Africa
+Cities: 0
+
+Country id: 86, country: South Korea
+Cities: 0
+
+Country id: 87, country: Spain
+Cities: 0
+
+Country id: 88, country: Sri Lanka
+Cities: 0
+
+Country id: 89, country: Sudan
+Cities: 0
+
+Country id: 90, country: Sweden
+Cities: 0
+
+Country id: 91, country: Switzerland
+Cities: 0
+
+Country id: 92, country: Taiwan
+Cities: 0
+
+Country id: 93, country: Tanzania
+Cities: 0
+
+Country id: 94, country: Thailand
+Cities: 0
+
+Country id: 95, country: Tonga
+Cities: 0
+
+Country id: 96, country: Tunisia
+Cities: 0
+
+Country id: 97, country: Turkey
+Cities: 0
+
+Country id: 98, country: Turkmenistan
+Cities: 0
+
+Country id: 99, country: Tuvalu
+Cities: 0
+
+Country id: 100, country: Ukraine
+Cities: 0
+
+Country id: 101, country: United Arab Emirates
+Cities: 0
+
+Country id: 102, country: United Kingdom
+Cities: 0
+
+Country id: 103, country: United States
+Cities: 0
+
+Country id: 104, country: Venezuela
+Cities: 0
+
+Country id: 105, country: Vietnam
+Cities: 0
+
+Country id: 106, country: Virgin Islands
+Cities: 0
+
+Country id: 107, country: Yemen
+Cities: 0
+
+Country id: 108, country: Yugoslavia
+Cities: 0
+
+Country id: 109, country: Zambia
+Cities: 0
+
