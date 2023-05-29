@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dbconnect.main.java"},{"l":"dbconnect.main.java.api"},{"l":"dbconnect.main.java.model"}];updateSearchResults();
